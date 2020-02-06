@@ -11,10 +11,5 @@ export default {
                 user: userProfile, posts
             }
         }
-    },
-    User: {
-        fullName: parent => {
-            return `${parent.firstName} ${parent.lastName}`;
-        }
     }
 };
