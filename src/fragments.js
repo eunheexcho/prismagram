@@ -5,4 +5,5 @@ export const COMMENT_FRAGMENT = `
         user {
             username
         }
+    }
 `;
